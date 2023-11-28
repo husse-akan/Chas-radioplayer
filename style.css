@@ -1,0 +1,16 @@
+.playlist {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+
+.infobox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.p {
+  margin: 50px;
+  font-size: 25px;
+}
